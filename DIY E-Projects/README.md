@@ -1,4 +1,4 @@
-# DIY Electronics Projects
+# 🔌DIY Electronics Projects
 
 Welcome to my collection of hands-on electronics projects from Wiztaqnia®. Each project includes code, schematics, wiring diagrams, and links to full tutorials on my blog.
 
