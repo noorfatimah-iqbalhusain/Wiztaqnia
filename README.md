@@ -1,6 +1,6 @@
 # Wiztaqnia® — Electronics and Technology Digest
 
-I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind Wiztaqnia®.  
+Greetings! I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind Wiztaqnia®.  
 I write insightful blog posts on DIY electronics, programming, and tech trends.
 
 I'm excited to share the **code, projects, and resources** from my blog here on GitHub, allowing you to explore, build, and experiment with confidence.
