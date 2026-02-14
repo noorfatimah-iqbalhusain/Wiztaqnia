@@ -22,7 +22,7 @@ When using this content, you **must** include:
 2. **Author**: "Created by Noor Fatimah I.H".
 3. **Source**: "Originally published on Wiztaqnia® — https://www.wiztaqnia.com".
 
-For full details, please read the [LICENSE](LICENSE.md) file.
+For full details, please read the [LICENSE](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/blob/main/LICENSE.md) file.
 
 ## Learn More
 
