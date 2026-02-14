@@ -8,7 +8,7 @@ I'm excited to share the **code, projects, and resources** from my blog here on 
 At **Wiztaqnia®**, I believe:
 > "Technology should empower everyone. I research trends, test applications, and share what actually works—so you can build wisely and innovate ethically."
 
-If you are a hobbyist, engineer, or someone interested in understanding how things work, I am glad you are here.
+If you are a hobbyist, engineer, or someone interested in understanding how things work, I am glad you are here!
 
 ## Explore
 
@@ -26,7 +26,6 @@ If you are a hobbyist, engineer, or someone interested in understanding how thin
 ## Connect
 
 🌐 [Wiztaqnia.com](https://wiztaqnia.com) | ✉️ connect@wiztaqnia.com | 🔗 [LinkedIn](https://www.linkedin.com/in/noorfatimahih/)
-
 
 **Keep learning — technology knows no bounds! 🚀**
 
