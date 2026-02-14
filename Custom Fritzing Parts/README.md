@@ -1,10 +1,6 @@
 # 🧩 Custom Fritzing Parts
 
-Welcome to my collection of custom Fritzing parts from Wiztaqnia® — designed for accuracy, clarity, and real-world usability. Each part includes:
-- Official Fritzing `.fzpz` file (ready to import)
-- Pinout diagram & footprint validation
-- Schematic symbol + breadboard + PCB views
-- Usage notes and compatibility info
+Welcome to my collection of custom Fritzing parts from Wiztaqnia®. Each part includes an import-ready .fzpz file, a validated pinout and footprint, schematic/breadboard/PCB views, and brief usage and compatibility notes.
 
 ## Featured Parts
 
