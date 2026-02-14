@@ -4,10 +4,9 @@ Welcome to my collection of custom Fritzing parts from Wiztaqnia®. Each part in
 
 ## Featured Parts
 
-- **[ESP32-WROOM-32 (v3.0)](https://github.com/miksrv/fritzing-esp32-wroom)** — Fully labeled, with correct pin mapping and Wi-Fi/Bluetooth icons.
-- **[BME280 Environmental Sensor](https://github.com/SmartThingsDIY/fritzing-bme280)** — I²C and SPI variants, with accurate physical dimensions and pin labels.
-- **[WS2812B LED Strip Segment](https://github.com/Tsjakka/fritzing-ws2812b-strip)** — 5-LED segment with data-in/data-out headers and flexible layout.
-- **[Custom Raspberry Pi HAT Template](https://github.com/leonardocavagnis/fritzing-rpi-hat-template)** — Pre-sized PCB view (100×65 mm), GPIO header alignment, and mounting holes.
+- **[MAX7219 32X8 LED Dot MatrixDisplay](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/tree/main/Custom%20Fritzing%20Parts/MAX7219%2032x8%20LED%20Dot%20Matrix%20Display)
+- **[Fermion ENS160 Air Quality Sensor](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/tree/main/Custom%20Fritzing%20Parts/Fermion%20ENS160%20Air%20Quality%20Sensor)
+- **[Gravity ENS160 Air Quality Sensor](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/tree/main/Custom%20Fritzing%20Parts/Gravity%20ENS160%20Air%20Quality%20Sensor)
 
 ## Get Started in 3 Steps
 
