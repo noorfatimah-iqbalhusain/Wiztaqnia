@@ -1,12 +1,12 @@
 # 🤝 Contributing to Wiztaqnia®
 
-Thank you for your interest in contributing! We love seeing the community build and improve upon these projects.
+Thank you for your interest in contributing! Love seeing the community build and improve upon these projects.
 
 ## ✅ How You Can Help
 1. **Bug Reports**: Open an issue if you find a mistake in the code or a circuit.
 2. **Feature Requests**: Suggest new components or functions.
 3. **Showcase**: Share photos or videos of your built projects!
-4. **Code Improvements**: Submit a Pull Request with optimized logic or better comments.
+4. **Code Improvements**: Submit a Pull Request with optimised logic or better comments.
 
 ## 📌 Rules for Contribution
 - **Respect the License**: All contributions must align with the [Wiztaqnia® Content License](LICENSE).
