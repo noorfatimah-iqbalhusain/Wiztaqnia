@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
 ![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
 ![Website](https://img.shields.io/badge/Website-Wiztaqnia-orange.svg)
-[![Contributing](https://img.shields.io/badge/Contributing-How%20to%20Help-blue)](CONTRIBUTING.md)
+
 
 Greetings! I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind **Wiztaqnia®**. I write insightful blog posts on DIY electronics, programming, and tech trends.
 
