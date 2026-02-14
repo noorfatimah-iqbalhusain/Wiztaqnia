@@ -3,12 +3,12 @@
 I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind Wiztaqnia®.  
 I write insightful blog posts on DIY electronics, programming, and tech trends.
 
-This GitHub shares the **code, projects, and resources** behind my blog—so you can explore, build, and experiment with confidence.
+I'm excited to share the **code, projects, and resources** from my blog here on GitHub, allowing you to explore, build, and experiment with confidence.
 
-At Wiztaqnia®, I believe:
+At **Wiztaqnia®**, I believe:
 > "Technology should empower everyone. I research trends, test applications, and share what actually works—so you can build wisely and innovate ethically."
 
-If you're a hobbyist, an engineer, or just someone who wants to understand how things work—I'm glad you're here.
+If you are a hobbyist, engineer, or someone interested in understanding how things work, I am glad you are here.
 
 ## Explore
 
@@ -25,9 +25,8 @@ If you're a hobbyist, an engineer, or just someone who wants to understand how t
 
 ## Connect
 
-🌐 [Wiztaqnia.com](https://wiztaqnia.com) | ✉️[Email] connect@wiztaqnia.com | 🔗 [LinkedIn] (https://www.linkedin.com/in/noorfatimahih/)
+🌐 [Wiztaqnia.com](https://wiztaqnia.com) | ✉️ connect@wiztaqnia.com | 🔗 [LinkedIn](https://www.linkedin.com/in/noorfatimahih/)
 
----
 
 **Keep learning — technology knows no bounds! 🚀**
 
