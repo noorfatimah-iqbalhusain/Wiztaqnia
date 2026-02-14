@@ -1,31 +1,51 @@
-# Wiztaqnia® — Electronics and Technology Digest
+#  Wiztaqnia® — Electronics and Technology Digest
 
-Greetings! I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind Wiztaqnia®.  
-I write insightful blog posts on DIY electronics, programming, and tech trends.
+![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
+![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
+![Website](https://img.shields.io/badge/Website-Wiztaqnia-orange.svg)
+[![Contributing](https://img.shields.io/badge/Contributing-How%20to%20Help-blue)](CONTRIBUTING.md)
+
+Greetings! I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind **Wiztaqnia®**. I write insightful blog posts on DIY electronics, programming, and tech trends.
 
 I'm excited to share the **code, projects, and resources** from my blog here on GitHub, allowing you to explore, build, and experiment with confidence.
 
 At **Wiztaqnia®**, I believe:
-> "Technology should empower everyone. I research trends, test applications, and share what actually works—so you can build wisely and innovate ethically."
+> "Technology should empower everyone. I research trends, test applications, and share what actually works, so you can build wisely and innovate ethically."
 
 If you are a hobbyist, engineer, or someone interested in understanding how things work, I am glad you are here!
 
-## Explore
+## 📚 Explore
+- 🛠️ **DIY Electronic Projects**: Hands-on circuits, schematics, and real-world builds.
+- 💻 **Programming**: Code snippets and tutorials.
+- 🎨 **Custom Fritzing Parts**: Reusable, open-source component libraries for circuit design.
 
-- 🛠️ **DIY Electronic Projects**: Hands-on circuits, schematics, and real-world builds  
-- 💻 **Programming**: Code snippets and tutorials  
-- 🎨 **Custom Fritzing Parts**: Reusable, open-source component libraries for circuit design  
+---
 
-## How You Can Get Involved
+## 📝 Attribution Rules
+When using this content, you **must** include:
+1. **Title** of the content.
+2. **Author**: "Created by Noor Fatimah I.H".
+3. **Source**: "Originally published on Wiztaqnia® — https://www.wiztaqnia.com".
 
-- Try a project and share your results (photos, videos, improvements!)  
-- Suggest topics for future blog posts  
-- Collaborate on open-source hardware/software projects  
-- Ask questions about electronics, coding, or AI  
+For full details, please read the [LICENSE](LICENSE.md) file.
 
-## Connect
+---
 
-🌐 [Wiztaqnia.com](https://wiztaqnia.com) | ✉️ connect@wiztaqnia.com | 🔗 [LinkedIn](https://www.linkedin.com/in/noorfatimahih/)
+## 🤝 Get Involved
+Check out our [Contributing Guidelines](CONTRIBUTING.md) to see how you can:
+- Try a project and share your results.
+- Suggest topics for future blog posts.
+- Collaborate on open-source hardware/software.
+- Ask questions about electronics, coding, or AI
 
-**Keep learning — technology knows no bounds! 🚀**
+---
+## 📬 Connect With Me
+
+- 🌐 Website: [wiztaqnia.com](https://www.wiztaqnia.com)  
+- ✉️ Email: [connect@wiztaqnia.com](mailto:connect@wiztaqnia.com)  
+- 🔗 LinkedIn: [linkedin.com/in/noorfatimahih](https://linkedin.com/in/noorfatimahih)  
+- 📸 Instagram: [@noorfatimah_i.h](https://instagram.com/noorfatimah_i.h)
+
+ **Keep learning — technology knows no bounds!** 🚀
+
 
