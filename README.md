@@ -2,7 +2,6 @@
 
 ![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
 ![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
-![Website](https://img.shields.io/badge/Website-Wiztaqnia-orange.svg)
 
 
 Greetings! I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind **Wiztaqnia®**. I write insightful blog posts on DIY electronics, programming, and tech trends.
@@ -19,8 +18,6 @@ If you are a hobbyist, engineer, or someone interested in understanding how thin
 - 💻 **Programming**: Code snippets and tutorials.
 - 🎨 **Custom Fritzing Parts**: Reusable, open-source component libraries for circuit design.
 
----
-
 ## 📝 Attribution Rules
 When using this content, you **must** include:
 1. **Title** of the content.
@@ -29,8 +26,6 @@ When using this content, you **must** include:
 
 For full details, please read the [LICENSE](LICENSE.md) file.
 
----
-
 ## 🤝 Get Involved
 Check out our [Contributing Guidelines](CONTRIBUTING.md) to see how you can:
 - Try a project and share your results.
@@ -38,7 +33,6 @@ Check out our [Contributing Guidelines](CONTRIBUTING.md) to see how you can:
 - Collaborate on open-source hardware/software.
 - Ask questions about electronics, coding, or AI
 
----
 ## 📬 Connect With Me
 
 - 🌐 Website: [wiztaqnia.com](https://www.wiztaqnia.com)  
