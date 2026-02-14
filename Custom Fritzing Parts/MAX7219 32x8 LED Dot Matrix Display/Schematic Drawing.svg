@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.21in"
+   height="1.21in"
+   viewBox="0 0 5210 1210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Schematic Drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0970528"
+     inkscape:cx="241.75915"
+     inkscape:cy="99.217662"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <defs
+     id="defs1" />
+  <g
+     id="schematic">
+    <rect
+       fill="none"
+       height="1200"
+       width="5000"
+       stroke-width="10"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       id="symbol"
+       x="105"
+       y="5" />
+    <text
+       x="2605"
+       y="605"
+       font-family="Droid Sans"
+       font-size="60"
+       fill="#000000"
+       id="label"
+       text-anchor="middle">MAX7219 32x8 LED Dot Matrix Display</text>
+    <text
+       x="75"
+       y="385"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin0num">1</text>
+    <text
+       x="125"
+       y="417"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin0label">CLK</text>
+    <text
+       x="75"
+       y="485"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin1num">2</text>
+    <text
+       x="125"
+       y="517"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin1label">CS</text>
+    <text
+       x="75"
+       y="585"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin2num">3</text>
+    <text
+       x="125"
+       y="617"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin2label">DIN</text>
+    <text
+       x="75"
+       y="685"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin3num">4</text>
+    <text
+       x="125"
+       y="717"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin3label">GND</text>
+    <text
+       x="75"
+       y="785"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin4num">5</text>
+    <text
+       x="125"
+       y="817"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin4label">VCC</text>
+    <text
+       x="5135"
+       y="785"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin5num">6</text>
+    <text
+       x="5085"
+       y="817"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin5label">VCC</text>
+    <text
+       x="5135"
+       y="685"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin6num">7</text>
+    <text
+       x="5085"
+       y="717"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin6label">GND</text>
+    <text
+       x="5135"
+       y="585"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin7num">8</text>
+    <text
+       x="5085"
+       y="617"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin7label">DOUT</text>
+    <text
+       x="5135"
+       y="485"
+       text-anchor="start"
+       font-family="Droid Sans"
+       font-size="35"
+       fill="#555555"
+       id="pin8num">9</text>
+    <text
+       x="5085"
+       y="517"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin8label">CS</text>
+    <text
+       x="5135"
+       y="385"
+       text-anchor="start"
+       font-family="'Droid Sans'"
+       font-size="35"
+       fill="#555555"
+       id="pin9num">10</text>
+    <text
+       x="5085"
+       y="417"
+       text-anchor="end"
+       font-family="Droid Sans"
+       font-size="49"
+       fill="#555555"
+       id="pin9label">CLK</text>
+    <line
+       fill="none"
+       id="connector0pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="105"
+       x2="5"
+       y1="405"
+       y2="405" />
+    <rect
+       fill="none"
+       id="connector0terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="0"
+       y="400" />
+    <line
+       fill="none"
+       id="connector1pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="105"
+       x2="5"
+       y1="505"
+       y2="505" />
+    <rect
+       fill="none"
+       id="connector1terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="0"
+       y="500" />
+    <line
+       fill="none"
+       id="connector2pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="105"
+       x2="5"
+       y1="605"
+       y2="605" />
+    <rect
+       fill="none"
+       id="connector2terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="0"
+       y="600" />
+    <line
+       fill="none"
+       id="connector3pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="105"
+       x2="5"
+       y1="705"
+       y2="705" />
+    <rect
+       fill="none"
+       id="connector3terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="0"
+       y="700" />
+    <line
+       fill="none"
+       id="connector4pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="105"
+       x2="5"
+       y1="805"
+       y2="805" />
+    <rect
+       fill="none"
+       id="connector4terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="0"
+       y="800" />
+    <line
+       fill="none"
+       id="connector5pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="5105"
+       x2="5205"
+       y1="805"
+       y2="805" />
+    <rect
+       fill="none"
+       id="connector5terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="5200"
+       y="800" />
+    <line
+       fill="none"
+       id="connector6pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="5105"
+       x2="5205"
+       y1="705"
+       y2="705" />
+    <rect
+       fill="none"
+       id="connector6terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="5200"
+       y="700" />
+    <line
+       fill="none"
+       id="connector7pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="5105"
+       x2="5205"
+       y1="605"
+       y2="605" />
+    <rect
+       fill="none"
+       id="connector7terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="5200"
+       y="600" />
+    <line
+       fill="none"
+       id="connector8pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="5105"
+       x2="5205"
+       y1="505"
+       y2="505" />
+    <rect
+       fill="none"
+       id="connector8terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="5200"
+       y="500" />
+    <line
+       fill="none"
+       id="connector9pin"
+       stroke="#555555"
+       stroke-linecap="round"
+       stroke-width="10"
+       x1="5105"
+       x2="5205"
+       y1="405"
+       y2="405" />
+    <rect
+       fill="none"
+       id="connector9terminal"
+       height="10"
+       width="10"
+       style="fill:none;stroke:none;stroke-width:0"
+       x="5200"
+       y="400" />
+  </g>
+</svg>
