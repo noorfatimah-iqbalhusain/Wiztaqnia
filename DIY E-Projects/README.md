@@ -1,4 +1,6 @@
 # 🔌DIY Electronics Projects
+![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
+![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
 
 Welcome to my collection of hands-on electronics projects from Wiztaqnia®. Each project includes code, schematics, wiring diagrams, and links to full tutorials on my blog.
 
@@ -13,6 +15,14 @@ Welcome to my collection of hands-on electronics projects from Wiztaqnia®. Each
 1. Pick a project that looks fun
 2. Grab the parts listed
 3. Follow the guide and build!
+
+## 📝 Attribution Rules
+When using this content, you **must** include:
+1. **Title** of the content.
+2. **Author**: "Created by Noor Fatimah I.H".
+3. **Source**: "Originally published on Wiztaqnia® — https://www.wiztaqnia.com".
+
+For full details, please read the [LICENSE](LICENSE.md) file.
 
 ## Learn More
 
