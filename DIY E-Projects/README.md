@@ -4,10 +4,9 @@ Welcome to my collection of hands-on electronics projects from Wiztaqnia®. Each
 
 ## Featured Projects
 
-- **Arduino Weather Station** — Monitor temperature and humidity with real-time logging.
-- **ESP32 Home Automation** — Control lights and devices over Wi‑Fi.
-- **Raspberry Pi Sensor Node** — Real-time data logging and cloud sync.
-- **LED Strip Controller** — Create color-changing effects with addressable LEDs.
+- [Word Clock using MAX7219 LED Dot Matrix DisplayArduino Weather Station](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/tree/main/DIY%20E-Projects/Word%20Clock%20using%20MAX7219%20LED%20Dot%20Matrix%20Display)
+- [IoT based Indoor Air Quality ENS160 Monitor](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/tree/main/DIY%20E-Projects/Iot%20based%20Indoor%20Air%20Quality%20ENS160%20Monitor)
+- [Testing Scoppy Pico Smart Oscilloscope with 5 electronic circuits](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/tree/main/DIY%20E-Projects/Testing%20Scoppy%20Pico%20Smart%20Oscilloscope%20with%205%20electronic%20circuits)
 
 ## Get Started in 3 Steps
 
