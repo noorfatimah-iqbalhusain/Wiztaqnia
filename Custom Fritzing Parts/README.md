@@ -16,5 +16,5 @@ Welcome to my collection of custom Fritzing parts from Wiztaqnia®. Each part in
 
 ## Learn More
 
-Tutorials on creating, validating, and sharing custom parts — plus tips for beginners — are available on the [Wiztaqnia® blog](https://wiztaqnia.com).
+Tutorials on creating, validating, and sharing custom parts, plus tips for beginners, are available on the [Wiztaqnia® blog](https://wiztaqnia.com).
 
