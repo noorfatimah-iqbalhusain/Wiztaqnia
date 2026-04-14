@@ -1,4 +1,4 @@
-# 📝 heartfelt Coding
+# 📝 Heartfelt Coding
 ![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
 ![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
 
