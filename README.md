@@ -1,12 +1,12 @@
-#  Wiztaqnia® — Electronics and Technology Digest
+#  Wiztaqnia® — Homebrew Electronics •Heartfelt Coding •No-nonsense Tech 
 
 ![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
 ![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
 
 
-Greetings! I'm **Noor Fatimah Iqbal Husain**, a technical writer and creator behind **Wiztaqnia®**. I write insightful blog posts on DIY electronics, programming, and tech trends.
+Greetings! I'm **Noor Fatimah Iqbal Husain**, an hardware engineer behind **Wiztaqnia®**. I write insightful blog posts on homebrew electronics, heartfelt coding and no-nonsense tech.
 
-I'm excited to share the **code, projects, and resources** from my blog here on GitHub, allowing you to explore, build, and experiment with confidence.
+I'm excited to share the code, projects, and resources from my blog here on GitHub, so you can explore, build, and experiment with confidence.
 
 At **Wiztaqnia®**, I believe:
 > "Technology should empower everyone. I research trends, test applications, and share what actually works, so you can build wisely and innovate ethically."
@@ -14,8 +14,8 @@ At **Wiztaqnia®**, I believe:
 If you are a hobbyist, engineer, or someone interested in understanding how things work, I am glad you are here!
 
 ## 📚 Explore
-- 🛠️ **DIY Electronic Projects**: Hands-on circuits, schematics, and real-world builds.
-- 💻 **Programming**: Code snippets and tutorials.
+- 🛠️ **Homebrew Electronics**: Hands-on circuits, schematics, and real-world builds.
+- 💻 **Heartfelt Coding**: Code snippets and tutorials.
 - 🎨 **Custom Fritzing Parts**: Reusable, open-source component libraries for circuit design.
 
 ## 📝 Attribution Rules
