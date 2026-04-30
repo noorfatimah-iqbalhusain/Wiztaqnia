@@ -26,4 +26,4 @@ For full details, please read the [LICENSE](https://github.com/noorfatimah-iqbal
 
 ## Learn More
 
-Full tutorials and deeper explanations are available on the [Wiztaqnia® blog](https://wiztaqnia.com).
+Full tutorials and deeper explanations are available on the [Wiztaqnia®](https://wiztaqnia.com).
