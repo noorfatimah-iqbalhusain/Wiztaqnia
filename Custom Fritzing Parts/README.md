@@ -16,7 +16,7 @@ Welcome to my collection of custom Fritzing parts from Wiztaqnia®. Each part in
 2. Import into Fritzing via *File → Open* (or drag & drop)  
 3. Use in schematic, breadboard, or PCB view — no setup needed!
 
-## 📝 Attribution Rules
+## Attribution Rules
 When using this content, you **must** include:
 1. **Title** of the content.
 2. **Author**: "Created by Noor Fatimah I.H".
@@ -26,5 +26,5 @@ For full details, please read the [LICENSE](https://github.com/noorfatimah-iqbal
 
 ## Learn More
 
-Tutorials on creating, validating, and sharing custom parts, plus tips for beginners, are available on the [Wiztaqnia® blog](https://wiztaqnia.com).
+Tutorials on creating, validating, and sharing custom parts, plus tips for beginners, are available on the [Wiztaqnia®](https://wiztaqnia.com).
 
