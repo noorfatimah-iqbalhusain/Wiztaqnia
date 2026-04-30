@@ -4,24 +4,24 @@ All rights reserved.
 
 You are free to use, share, adapt, and build upon this content — provided you follow these attribution requirements:
 
-1. ✅ Title Attribution  
+1. ✔ Title Attribution  
    Always mention the title of the specific content used (e.g., “IoT based Indoor Air Quality ENS160 Monitor”).
 
-2. ✅ Author Attribution  
+2. ✔ Author Attribution  
    Credit the creator as: “Created by Noor Fatimah I.H”.
 
-3. ✅ Source Attribution  
+3. ✔ Source Attribution  
    Link back to the original publication on Wiztaqnia®:  
    “Originally published on Wiztaqnia® — https://www.wiztaqnia.com/[slug]”
 
-4. ✅ Media & Code Use  
+4. ✔ Media & Code Use  
    Applies equally to:
-   - Arduino/Python firmware  
-   - Custom Fritzing parts (.fzpz)  
-   - Circuit diagrams, schematics, PCB layouts  
-   - Images, videos, blog posts, tutorials  
+    • Arduino/Python firmware
+    • Custom Fritzing parts (.fzpz)  
+    • Circuit diagrams, schematics, PCB layouts  
+    • Images, videos, blog posts, tutorials  
 
-5. ✅ Social Sharing  
+6. ✔ Social Sharing  
    On LinkedIn, Instagram, GitHub Discussions, etc.:  
    • Tag @Wiztaqnia (where available)  
    • Mention “by Noor Fatimah I.H”  
