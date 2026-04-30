@@ -16,7 +16,7 @@ Welcome to my collection of hands-on electronics projects from Wiztaqnia®. Each
 2. Grab the parts listed
 3. Follow the guide and build!
 
-## 📝 Attribution Rules
+##  Attribution Rules
 When using this content, you **must** include:
 1. **Title** of the content.
 2. **Author**: "Created by Noor Fatimah I.H".
