@@ -22,5 +22,3 @@ Thank you for your interest in contributing! Love seeing the community build and
 
 ## 📬 Contact
 If you have questions about collaborating, reach out at [connect@wiztaqnia.com](mailto:connect@wiztaqnia.com).
-
-**Let’s innovate ethically and build wisely together!** ✨
