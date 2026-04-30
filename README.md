@@ -1,4 +1,4 @@
-#  Wiztaqnia®  — ### Electronics And Tech Blog
+#  Wiztaqnia®  — Electronics And Tech Blog
 
 
 ![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
