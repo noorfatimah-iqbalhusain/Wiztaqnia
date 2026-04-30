@@ -1,13 +1,13 @@
 #  Wiztaqnia®  
-### Homebrew Electronics •Heartfelt Coding •No-nonsense Tech 
+### Electronics And Tech Blog
 
 ![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
 ![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
 
 
-Greetings! I'm **Noor Fatimah Iqbal Husain**, an hardware engineer behind **Wiztaqnia®**. I write insightful blog posts on homebrew electronics, heartfelt coding and no-nonsense tech.
+Greetings! I'm **Noor Fatimah Iqbal Husain**, a hardware engineer behind **Wiztaqnia®**. I write insightful blog posts on homebrew electronics, heartfelt coding and no-nonsense tech.
 
-I'm excited to share the code, projects, and resources from my blog here on GitHub, so you can explore, build, and experiment with confidence.
+I'm excited to share the code, projects, and resources from my blog here on GitHub so that you can explore, build, and experiment with confidence.
 
 At **Wiztaqnia®**, I believe:
 > "Technology should empower everyone. I research trends, test applications, and share what actually works, so you can build wisely and innovate ethically."
