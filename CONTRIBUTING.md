@@ -9,7 +9,7 @@ Thank you for your interest in contributing! Love seeing the community build and
 4. **Code Improvements**: Submit a Pull Request with optimised logic or better comments.
 
 ## 📌 Rules for Contribution
-- **Respect the License**: All contributions must align with the [Wiztaqnia® Content License](
+- **Respect the License**: All contributions must align with the [Wiztaqnia® Content License](https://github.com/noorfatimah-iqbalhusain/Wiztaqnia/blob/main/LICENSE.md)
 - **Maintain Attribution**: Do not remove authorship or source links.
 - **Stay Clean**: Ensure your code is well-commented and easy to read.
 
