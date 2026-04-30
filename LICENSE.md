@@ -15,13 +15,15 @@ You are free to use, share, adapt, and build upon this content, provided you fol
 
 ✔ Media & Code Use  
    Applies equally to:
+   
     • Arduino/Python firmware
-    • Custom Fritzing parts (.fzpz)  
-    • Circuit diagrams, schematics, PCB layouts  
-    • Images, videos, blog posts, tutorials  
+    • Custom Firtzing parts
+    • Circuit diagrams, schematics, PCB layouts
+    • Images, videos, blog posts, tutorials
 
 ✔ Social Sharing  
    On LinkedIn, Instagram, GitHub Discussions, etc.:  
+   
    • Tag @Wiztaqnia (where available)  
    • Mention “by Noor Fatimah I.H”  
    • Include source link + #wiztaqnia
