@@ -15,9 +15,9 @@ At **Wiztaqnia®**, I believe:
 If you are a hobbyist, engineer, or someone interested in understanding how things work, I am glad you are here!
 
 ## 📚 Explore
-- 🛠️ **Homebrew Electronics**: Hands-on circuits, schematics, and real-world builds.
-- 💻 **Heartfelt Coding**: Code snippets and tutorials.
-- 🎨 **Custom Fritzing Parts**: Reusable, open-source component libraries for circuit design.
+- 🏠 **Homebrew Electronics**: Hands-on circuits, schematics, and real-world builds.
+- 💙 **Heartfelt Coding**: Code snippets and tutorials.
+- 🛠️ **Custom Fritzing Parts**: Reusable, open-source component libraries for circuit design.
 
 ## 📝 Attribution Rules
 When using this content, you **must** include:
