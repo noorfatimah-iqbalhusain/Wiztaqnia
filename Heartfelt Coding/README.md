@@ -1,4 +1,4 @@
-# 📝 Heartfelt Coding
+# 💙 Heartfelt Coding
 ![License](https://img.shields.io/badge/License-Wiztaqnia%20Attribution-blue.svg)
 ![Author](https://img.shields.io/badge/Author-Noor%20Fatimah%20I.H-green.svg)
 
@@ -16,7 +16,7 @@ Welcome to my collection of hands-on programming projects from Wiztaqnia®. Each
 2. Clone the repository and install dependencies  
 3. Run the code and customise it for your needs!
 
-## 📝 Attribution Rules
+## Attribution Rules
 When using this content, you **must** include:
 1. **Title** of the content.
 2. **Author**: "Created by Noor Fatimah I.H".
@@ -26,5 +26,5 @@ For full details, please read the [LICENSE](https://github.com/noorfatimah-iqbal
 
 ## Learn More
 
-Full explanations, how it works, and deployment tips are available on the [Wiztaqnia® blog](https://wiztaqnia.com).
+Full explanations, how it works, and deployment tips are available on the [Wiztaqnia®](https://wiztaqnia.com).
 
