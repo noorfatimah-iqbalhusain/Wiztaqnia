@@ -41,6 +41,4 @@ Check out our [Contributing Guidelines](CONTRIBUTING.md) to see how you can:
 - 🔗 LinkedIn: [linkedin.com/in/noorfatimahih](https://linkedin.com/in/noorfatimahih)  
 - 📸 Instagram: [@noorfatimah_i.h](https://instagram.com/noorfatimah_i.h)
 
- **Keep learning — technology knows no bounds!** 🚀
-
 
